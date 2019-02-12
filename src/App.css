@@ -1,0 +1,42 @@
+.App {
+  display: inline-flexbox;
+  background-color: #c4dfe6;
+  font-family: 'Stylus BT';
+  position: relative;
+  color: white;
+}
+
+button {
+  align-items: center;
+  margin-left: 42%;
+  margin-right: 42%;
+  border-radius: 20px;
+  background-color: #07575b;
+  color: white;
+  font-size: 50px;
+  font-family: 'Stylus BT';
+
+}
+
+.Title {
+  font-weight: bold;
+  font-size: 2em;
+  background-color: #07575b;
+  border-radius: 20px;
+}
+
+.App-clock {
+  text-align: center;
+  display: inline-block;
+  background-color: #66a5ad;
+  padding: 20px;
+  border-style: solid;
+  border-radius: 8px;
+  border-color: #003b46;
+  block-size: 200px;
+  text-align: center;
+  margin-left: 210px;
+  margin-bottom: 400px;
+  margin-top: 200px;
+
+}
